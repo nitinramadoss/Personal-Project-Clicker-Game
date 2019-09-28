@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">collegeClicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_of_college">Harvard University</string>
+    <string name="budget">budget</string>
+    <string name="total_clicks">Total Clicks:</string>
+    <string name="_250000">$0</string>
+    <string name="tuition">Tuition:</string>
+    <string name="student_debt"> DEBT: </string>
+</resources>
